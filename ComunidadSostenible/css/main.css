@@ -1,0 +1,172 @@
+.logo{
+	max-height: 120px;
+	width: 120px;
+}
+
+nav a{
+	text-decoration: none;
+	font-family: OpenSans-Bold;
+	color:grey;
+	padding-left: 15px;
+	padding-right: 20px;
+	font-size: 14px;
+
+}
+
+.borde-der{
+	border-right: solid 2px grey;
+}
+
+nav{
+	margin-top: 50px;
+}
+
+.fondo{
+	background-image: url(../img/semilla.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 350px;
+
+}
+
+.fondogris{
+	background-color: lightgrey;
+	height: 180px;
+}
+
+
+.centrado{
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 5%;
+}
+
+.iconos{
+	margin: 60px 20px 20px 20px;
+}
+
+.fit{
+	max-width: 100%;
+
+}
+
+p{
+	margin-bottom: 20px;
+}
+
+#alto{
+	height: 300px;
+	width: 100%;
+	overflow: hidden;
+}
+
+.fondoverde{
+	background-image: url(../img/fondo.jpg);
+	background-repeat:no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 300px;
+}
+	
+.fondoverde>img{
+	margin-top: 70px;
+}
+
+
+
+.fondoverde>h2{
+	margin-top: 15px;
+	color: white;
+}
+
+.fondoverde>p{
+	width: 500px;
+	color:white;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+
+.espacioup{
+	margin-top: 40px;
+}
+
+.espaciodown{
+	margin-bottom: 40px;
+}
+
+.col-4>h2{
+	color: green;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+.col-4>p{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.fondoverde2{
+	background-color:#669933;
+	background-repeat:no-repeat;
+	background-position: center;
+	width: 100%;
+}
+
+
+.white-centered{
+	text-align: center;
+	color:white;
+	padding-left: 60px;
+}
+
+.espacioup>h2{
+	color: white;
+
+}
+
+.roundimg{
+	position: relative;
+	border-radius: 100%;
+	width: 200px;
+}
+
+#verde{
+	color:green;
+
+}
+
+.socialicon{
+	width: 40px;
+	padding:5px;
+	margin-bottom: 50px;
+}
+
+.fondogris{
+	background-image: url(../img/fondo2.jpg);
+	background-repeat:repeat;
+	width: 100%;
+	height: 500px;
+
+}
+
+.blog{
+	color:grey;
+}
+
+.fondogris2{
+	background-color: grey;
+}
+
+.fondogris3{
+	background-color: lightgrey;
+}
+
+li{
+	display: inline-block;
+	padding:80px 40px 80px 40px;
+	color:white;
+	text-align: left;
+	border:1px solid white;
+	
+}
